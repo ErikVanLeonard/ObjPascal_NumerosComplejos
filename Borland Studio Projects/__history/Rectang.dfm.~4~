@@ -1,0 +1,82 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Rectangulares'
+  ClientHeight = 209
+  ClientWidth = 224
+  Color = clTeal
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clMenuBar
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Scaled = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 16
+    Top = 8
+    Width = 103
+    Height = 13
+    Caption = 'Notacion Rectangular'
+  end
+  object Label2: TLabel
+    Left = 8
+    Top = 40
+    Width = 21
+    Height = 13
+    Caption = 'Real'
+  end
+  object Label3: TLabel
+    Left = 8
+    Top = 104
+    Width = 50
+    Height = 13
+    Caption = 'Imaginario'
+  end
+  object Button1: TButton
+    Left = 16
+    Top = 160
+    Width = 75
+    Height = 25
+    Caption = 'Aceptar'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 136
+    Top = 160
+    Width = 75
+    Height = 25
+    Caption = 'Cancelar'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+  object Edit1: TEdit
+    Left = 64
+    Top = 37
+    Width = 113
+    Height = 21
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clInfoText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Edit2: TEdit
+    Left = 64
+    Top = 101
+    Width = 113
+    Height = 21
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clInfoText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 3
+  end
+end

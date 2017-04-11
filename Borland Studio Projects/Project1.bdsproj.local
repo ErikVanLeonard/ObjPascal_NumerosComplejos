@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/03 15:06:17.192.pas,C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Unit1.pas=C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Menu.pas</Transaction>
+    <Transaction>2017/04/03 15:06:17.192.dfm,C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Unit1.dfm=C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Menu.dfm</Transaction>
+    <Transaction>2017/04/03 15:09:51.440.pas,C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Unit2.pas=C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Rectang.pas</Transaction>
+    <Transaction>2017/04/03 15:09:51.440.dfm,C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Unit2.dfm=C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Rectang.dfm</Transaction>
+    <Transaction>2017/04/03 15:58:39.662.pas,C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Unit3.pas=C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Polar.pas</Transaction>
+    <Transaction>2017/04/03 15:58:39.662.dfm,C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Unit3.dfm=C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Polar.dfm</Transaction>
+    <Transaction>2017/04/03 22:43:30.490.bdsproj,C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Project1.bdsproj=C:\Users\multh\OneDrive\Documentos\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>2017/04/04 08:30:25.732.pas,C:\Users\mreri\Desktop\Borland Studio Projects\Unit4.pas=C:\Users\mreri\Desktop\Borland Studio Projects\Exit.pas</Transaction>
+    <Transaction>2017/04/04 08:30:25.732.dfm,C:\Users\mreri\Desktop\Borland Studio Projects\Unit4.dfm=C:\Users\mreri\Desktop\Borland Studio Projects\Exit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
